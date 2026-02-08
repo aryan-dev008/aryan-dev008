@@ -25,6 +25,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dev008&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Learning;Building;Improving)
+
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
