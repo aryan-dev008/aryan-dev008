@@ -27,6 +27,26 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aryan-dev008&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dev008&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="hehe" style="width:100%;height:50%;"> 
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="hehe" style="width:5000px;">
+<br>
+<div align="center">
+  
+  <a href="https://github.com/aryan-dev008">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dev008&layout=compact&theme=dark" width="45%" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/aryan-dev008">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-dev008&theme=dark" width="90%" />
+  </a>
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="hehe" style="width:5000px;">
+
+
 
 ---
 ### ✍️ Random Dev Quote
