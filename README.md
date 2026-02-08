@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ARYAN%20DANGWAL&animation=fadeIn)
+
 <h1 align="center">🔥 Aryan Dangwal 🔥
    <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&lines=Welcome+to+my+GitHub!;I+love+Python+%F0%9F%90%8D;Learning+Development" />
 
@@ -31,4 +33,3 @@
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
