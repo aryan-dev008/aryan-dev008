@@ -7,7 +7,7 @@
 ---
 
 # 💫 About Me:
-## 🧠 My Vibe Statement<br>💡 Learning backend development by building real projects - <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="hehe" style="width:20px;height:20px;"> <br>📚 Class 12 Student (CBSE)  <br>🎯 Goal: Become a *strong backend developer*  <br>🔥 Discipline > Motivation<br>
+## 🧠 My Vibe Statement<br>💡 Learning backend development by building real projects - <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="hehe" style="width:20px;height:20px;"> <br>📚 Class 12 Student (CBSE)  <br>🎯 Goal: Become a *strong backend developer*  <br>🔥 Discipline > Motivation<br><h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&lines=Welcome+to+my+GitHub!;I+love+Python+%F0%9F%90%8D;Learning+Development" />
 
 ---
 
