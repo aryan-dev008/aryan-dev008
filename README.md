@@ -36,7 +36,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="hehe" style="width:5000px;">
 <br>
 <div align="center">
-  
+
+  ---
+  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJwODEyMzhrdHlxYzljYmg5ZGswdXZ6eHI5d210ZTNlM3htNHg0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;height:150px;">
  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
