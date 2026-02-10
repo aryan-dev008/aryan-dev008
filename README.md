@@ -37,8 +37,7 @@
 <br>
 <div align="center">
 
-  ---
-  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJwODEyMzhrdHlxYzljYmg5ZGswdXZ6eHI5d210ZTNlM3htNHg0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;height:150px;">
+  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJwODEyMzhrdHlxYzljYmg5ZGswdXZ6eHI5d210ZTNlM3htNHg0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width:500px;height:300px;">
  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
