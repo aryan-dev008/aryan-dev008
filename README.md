@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20ARYANDANGWAL%20)
 
-<h1 align="center">   😊 HI THERE 👋🏼 
-   <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&lines=Welcome+to+my+GitHub!;I+love+Python+%F0%9F%90%8D;Learning+Development" />
-
+<h1 align="center">😊 HI THERE 👋🏼</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+Python+%F0%9F%90%8D;Learning+Development" />
+</p>
 <h3 align="center"> • Python Learner • Future Developer 🚀</h3>
 
 <p align="center">
