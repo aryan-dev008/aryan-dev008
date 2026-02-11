@@ -8,6 +8,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python">
 
+### 📈 My Activity Trend
+![Aryan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-dev008&theme=react-dark&area=true&hide_border=true)
+
 ---
 
 # 💫 About Me:
