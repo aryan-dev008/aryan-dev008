@@ -1,0 +1,24 @@
+name: Generate Trophies
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token (Check 'Settings > Secrets' if this fails)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Output file name
+          filename: github-trophies.svg
+
+          # Core configuration
+          base: "" # This hides the default stats (so you only get trophies)
+          plugin_trophies: yes
+          plugin_trophies_skin: gold # Options: gold, silver, bronze, dark, neon
