@@ -19,6 +19,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="20"> Building projects
    <br>📚 Class 12 Student (CBSE)  <br>🎯 Goal: Become a *strong backend developer*  <br>🔥 Discipline > Motivation<br><h1 align="center"> 
 
+
+
 ## 🐍 My Contribution Snake
 ![Snake animation](https://github.com/aryan-dev008/aryan-dev008/blob/output/github-contribution-grid-snake.svg)
 
@@ -26,6 +28,16 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+## 🛠️ Technical Proficiencies
+
+| Category          | Skills & Tools                                                                 |
+|-------------------|--------------------------------------------------------------------------------|
+| **Languages** | Python (Core & Advanced), SQL                                                 |
+| **Data Analysis** | Pandas, NumPy, Matplotlib                                                     |
+| **Databases** | MySQL, Database Design, CRUD Operations                                       |
+| **Backend Dev** | File Handling, Exception Handling, Connectivity (mysql-connector)             |
+| **Tools/OS** | Git, PowerShell, Windows Terminal, VS Code                                    |
 
 ---
 ![GitHub followers](https://img.shields.io/github/followers/aryan-dev008?style=social)
