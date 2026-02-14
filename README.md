@@ -19,6 +19,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="20"> Building projects
    <br>📚 Class 12 Student (CBSE)  <br>🎯 Goal: Become a *strong backend developer*  <br>🔥 Discipline > Motivation<br><h1 align="center"> 
 
+## 🐍 My Contribution Snake
+![Snake animation](https://github.com/aryan-dev008/aryan-dev008/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 # 💻 Tech Stack:
