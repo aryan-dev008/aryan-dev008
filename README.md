@@ -54,6 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-dev008&theme=synthwave&hide_border=true" alt="Aryan's Streak Stats" />
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-dev008&show_icons=true&locale=en&layout=compact" alt="ashishchandra95" /></p>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="hehe" style="width:100%;height:50%;"> 
