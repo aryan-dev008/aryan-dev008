@@ -55,6 +55,11 @@ I'm an independent developer from **India** passionate about building robust, sc
 ### 🗓️ Contribution Calendar
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-dev008&theme=tokyonight&hide_border=true)](https://github.com/aaronwchen/github-readme-streak-stats)
 
+### 🗓️ Contribution Graph
+
+![Aryan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-dev008&theme=github-light-custom&bg_color=0d1117&color=7ee787&line=238636&point=2ea043&area=true&hide_border=true)
+
+
 ### 📈 Activity & Metrics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aryan-dev008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
