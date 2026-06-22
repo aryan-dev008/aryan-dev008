@@ -50,7 +50,6 @@ I'm an independent developer from **India** passionate about building robust, sc
 - 🇮🇳 Based in India | Independent Developer
 
 ---
-
 ## 📊 My GitHub Stats
 
 ### 🗓️ Contribution Calendar
