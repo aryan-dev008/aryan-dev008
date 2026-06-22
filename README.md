@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Aryan
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&lines=Passionate+Backend+Developer;Python+Enthusiast;Building+Scalable+API+Solutions;Open+to+Collaborations)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&lines=Passionate+Backend+Developer;Python+Enthusiast;Building+Scalable+API+Solutions;Open+to+Collaboration)
 
 </div>
 
@@ -51,17 +51,16 @@ I'm an independent developer from **India** passionate about building robust, sc
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
-<div align="center">
+### 🗓️ Contribution Calendar
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-dev008&theme=tokyonight&hide_border=true)](https://github.com/aaronwchen/github-readme-streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan-dev008&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dev008&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-dev008&theme=radical&hide_border=true)
-
-</div>
+### 📈 Activity & Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-dev008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dev008&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+</p>
 
 ---
 
@@ -72,7 +71,7 @@ I'm an independent developer from **India** passionate about building robust, sc
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://aryan-dev008.github.io/my-website/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryandangwall)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryan-dev008)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-aryandangwal06@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryandangwal06@gmail.com)
 
 </div>
 
