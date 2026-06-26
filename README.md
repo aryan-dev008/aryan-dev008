@@ -1,30 +1,28 @@
 <div align="center">
   
-# 👋 Hi, I'm Aryan
+# 👋 Hi, I'm Aryan  
+### Backend Developer | Python Enthusiast | Data Science Explorer
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Backend+Developer;Python+Enthusiast;Data+Science+Explorer;Building+Scalable+Solutions)
 
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Backend Developer | Python Enthusiast | Problem Solver
-
-I'm a passionate independent developer from **India** focused on building robust backend systems, exploring data science, and solving complex problems through clean code and innovative solutions. Constantly learning and staying updated with modern technologies.
+<a href="https://linkedin.com/in/aryan-dev008"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/aryan-dev008"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://aryan-dev008.github.io/my-website/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"></a>
+<a href="mailto:aryandangwal06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
 ---
 
-## 💼 What I Do
+## 🚀 About Me
+
+I'm a passionate backend developer and Python enthusiast from **India**, focused on building robust, scalable systems and exploring data science applications. I combine clean code practices with innovative problem-solving to create impactful solutions.
 
 - 🔧 **Backend Development** - Building scalable REST APIs and microservices
-- 📊 **Data Engineering** - Working with data pipelines and analysis
-- 🤖 **Python Automation** - Creating efficient automation scripts
-- 💡 **Problem Solving** - DSA and algorithmic optimization
-- 🌐 **Full Stack Projects** - From database design to deployment
+- 📊 **Data Engineering** - Data pipelines, analysis, and visualization  
+- 🤖 **Python Automation** - Creating efficient automation tools
+- 💡 **Problem Solving** - DSA, algorithms, and system design
+- 🌐 **Full Stack** - From database design to cloud deployment
 
 ---
 
@@ -32,74 +30,42 @@ I'm a passionate independent developer from **India** focused on building robust
 
 <div align="center">
 
-**Languages:**
-
+**Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend Frameworks:**
-
+**Backend Frameworks:**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Databases & Tools:**
-
+**Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Data Science & Tools:**
-
+**Data Science & ML:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**DevOps & Tools:**
-
+**DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🎯 About Me
-
-- 🔧 Passionate about building scalable backend solutions
-- 💡 Interested in Data Science and AI/ML applications
-- 🤝 Open to collaborations and freelance projects
-- 📚 Continuously learning new technologies and best practices
-- 🇮🇳 Based in India | Independent Developer
-
----
-
-## 📁 Featured Projects
-
-### 🌟 Key Repositories
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|-----------|--------|
-| **E-Commerce API** | Full-stack REST API with authentication & payment gateway | Django, PostgreSQL, JWT | 🔄 Coming Soon |
-| **Data Analysis Dashboard** | Real-time data visualization app with analytics | Flask, Pandas, Plotly | 🔄 Coming Soon |
-| **House Price Predictor** | ML model for price prediction with data preprocessing | Scikit-learn, Pandas, Flask | 🔄 Coming Soon |
-| **Password Generator** | Secure password generator CLI tool | Python | ✅ [Live](https://github.com/aryan-dev008/Password-Genarator) |
-| **Portfolio Website** | Modern responsive portfolio showcase | HTML5, CSS3, JavaScript | ✅ [Live](https://aryan-dev008.github.io/my-website/) |
-
----
-
-## 📊 GitHub Statistics
+## 📈 GitHub Activity
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-dev008&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-dev008&theme=tokyonight&hide_border=true)](https://github.com/aryan-dev008)
 
-</div>
-
-<div align="center">
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aryan-dev008&theme=react-dark&bg_color=1F222E&hide_border=true)](https://github.com/aryan-dev008)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=aryan-dev008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dev008&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
@@ -108,28 +74,30 @@ I'm a passionate independent developer from **India** focused on building robust
 
 ---
 
-## 🎓 Education & Career Path
+## 🌟 Featured Projects
 
-### Current Focus: **BCA with Data Science/AI-ML Specialization** 🎯
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| **Password Generator** | Secure CLI tool with customizable password generation | Python | [Repository](https://github.com/aryan-dev008/Password-Genarator) |
+| **Portfolio Website** | Modern, responsive personal portfolio showcase | HTML5, CSS3, JavaScript | [Live Demo](https://aryan-dev008.github.io/my-website/) |
+| **Snake Game** | Interactive Python game with OOP principles | Python, Pygame | [Repository](https://github.com/aryan-dev008/snake-game-) |
 
-**Why this path?**
-- ✅ Combines backend development with data intelligence
-- ✅ Higher market demand & salary prospects
-- ✅ Future-proof career path
-- ✅ Relevant to emerging tech trends
+> 🔄 **Coming Soon:** E-Commerce API, Data Dashboard, ML Models
 
-### Learning Roadmap:
+---
+
+## 🎯 Learning Roadmap
 
 ```
 📈 SKILL PROGRESSION
 
-Phase 1: Core Foundations (Current)
+Phase 1: Core Foundations (Current) ✅
 ├── Data Structures & Algorithms
 ├── Advanced Python (OOP, Design Patterns)
 ├── Database Optimization
 └── Build foundational projects
 
-Phase 2: Data Science Track (Next 3-6 months)
+Phase 2: Data Science Track (3-6 months)
 ├── Pandas & NumPy
 ├── Statistical Analysis
 ├── Data Visualization
@@ -150,26 +118,36 @@ Phase 4: Advanced AI/ML (9-12 months)
 
 ---
 
-## 🚀 Goals & Aspirations
+## 🎓 My Goals
 
 - 🎯 Build **3-5 portfolio projects** showcasing full-stack + ML expertise
 - 📊 Master **Data Science fundamentals** and statistical analysis
 - 🤖 Develop **AI/ML applications** for real-world problems
 - 💼 Secure **internship/job in tech** at top companies
 - 🌟 Contribute to **open-source projects**
-- 📱 Create **scalable, production-ready systems**
+- 📱 Create **production-ready, scalable systems**
 
 ---
 
-## 💬 Let's Connect!
+## 💼 Open For
+
+✅ **Backend development projects** - APIs, microservices, databases  
+✅ **Data science collaboration** - Analysis, visualization, ML models  
+✅ **Freelance opportunities** - Python, Django, FastAPI projects  
+✅ **Internships & Full-time roles** - Backend engineering, data science  
+✅ **Open-source contributions** - Python ecosystem projects  
+
+---
+
+## 📞 Let's Connect!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://aryan-dev008.github.io/my-website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-dev008)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryandangwall)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryan-dev008)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryandangwal06@gmail.com)
+**Questions or opportunities? Reach out!**
+
+[![Email](https://img.shields.io/badge/Email-aryandangwal06@gmail.com-D14836?style=flat&logo=gmail)](mailto:aryandangwal06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--dev008-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/aryan-dev008)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=globe)](https://aryan-dev008.github.io/my-website/)
 
 </div>
 
@@ -177,26 +155,7 @@ Phase 4: Advanced AI/ML (9-12 months)
 
 <div align="center">
 
-### 📈 Currently Open For:
-
-✅ **Collaboration opportunities** on backend & data science projects  
-✅ **Freelance projects** involving Python, APIs, and data analysis  
-✅ **Internships/Job opportunities** in development and data science  
-✅ **Open-source contributions** to Python projects  
-
-**⭐ If my work interests you or you'd like to collaborate, feel free to reach out!**
-
----
-
-### 💪 Support My Work
-
-If you find my repositories helpful:
-- ⭐ Star my projects
-- 🔗 Share with others
-- 💬 Give feedback
-- 🤝 Collaborate with me
-
----
+⭐ **If you found my work interesting, please consider starring my repositories!**
 
 *Last Updated: June 2026 | Built with ❤️ and Python*
 
