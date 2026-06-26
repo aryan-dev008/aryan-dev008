@@ -65,9 +65,8 @@ I'm a passionate backend developer and Python enthusiast from **India**, focused
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-dev008&theme=tokyonight&hide_border=true)](https://github.com/aryan-dev008)
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aryan-dev008&theme=react-dark&bg_color=1F222E&hide_border=true)](https://github.com/aryan-dev008)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=aryan-dev008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dev008&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
