@@ -61,6 +61,7 @@ I'm a passionate backend developer and Python enthusiast from **India**, focused
 
 ## 📈 GitHub Activity
 
+![] (https://github-readme-streak-stats.herokuapp.com/?user=aryan-dev008&theme=tokyonight&hide_border=true)
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-dev008&theme=tokyonight&hide_border=true)](https://github.com/aryan-dev008)
