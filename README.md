@@ -1,6 +1,7 @@
 <div align="center">
   
-# 👋 Hi, I'm Aryan  
+# 👋 Hi, I'm Aryan 
+### B.Tech Computer Science & Engineering (Core) Student
 ### Backend Developer | Python Enthusiast | Data Science Explorer
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Backend+Developer;Python+Enthusiast;Data+Science+Explorer;Building+Scalable+Solutions)
@@ -13,19 +14,29 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
-I'm a passionate backend developer and Python enthusiast from **India**, focused on building robust, scalable systems and exploring data science applications. I combine clean code practices with innovative problem-solving to create impactful solutions.
+I am a focused **B.Tech in Computer Science and Engineering (Core)** student based in India. My academic foundation is complemented by a strong passion for backend systems design, robust automation, and data engineering. I focus on writing clean, maintainable code to solve complex, real-world problems.
 
-- 🔧 **Backend Development** - Building scalable REST APIs and microservices
-- 📊 **Data Engineering** - Data pipelines, analysis, and visualization  
-- 🤖 **Python Automation** - Creating efficient automation tools
-- 💡 **Problem Solving** - DSA, algorithms, and system design
-- 🌐 **Full Stack** - From database design to cloud deployment
+*   🎓 **Academics:** Pursuing Core Computer Science & Engineering principles (DSA, OS, DBMS, System Design).
+*   🔧 **Backend Engineering:** Building robust REST APIs, secure microservices, and optimizing relational databases.
+*   📊 **Data Science Exploration:** Designing data pipelines, performing statistical analysis, and implementing fundamental ML models.
 
 ---
 
+## 💻 Tech Stack
+
+### **Core Languages & Databases**
+*   **Languages:** Python, JavaScript, SQL
+*   **Databases:** PostgreSQL, MySQL, MongoDB
+
+### **Frameworks & Libraries**
+*   **Backend:** Django, FastAPI, Flask
+*   **Data Science:** Pandas, NumPy, Scikit-learn
+
+### **Tools & DevOps**
+*   **Version Control & Environment:** Git, GitHub, Linux, Docker
+*   **IDEs/Development:** VS Code, PyCharm
 ## 💻 Tech Stack
 
 <div align="center">
@@ -79,66 +90,56 @@ I'm a passionate backend developer and Python enthusiast from **India**, focused
 | **Portfolio Website** | Modern, responsive personal portfolio showcase | HTML5, CSS3, JavaScript | [Live Demo](https://aryan-dev008.github.io/my-website/) |
 | **Snake Game** | Interactive Python game with OOP principles | Python, Pygame | [Repository](https://github.com/aryan-dev008/snake-game-) |
 
-> 🔄 **Coming Soon:** E-Commerce API, Data Dashboard, ML Models
+>---
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Password Generator** | Secure CLI tool featuring customizable, algorithmic password generation. | Python | [Repository](https://github.com/aryan-dev008/Password-Genarator) |
+| **Portfolio Website** | Modern, production-ready responsive personal portfolio showcase. | HTML5, CSS3, JavaScript | [Live Demo](https://aryan-dev008.github.io/my-website/) |
+| **Snake Game** | Interactive, classic implementation applying strict OOP principles. | Python, Pygame | [Repository](https://github.com/aryan-dev008/snake-game-) |
+
+> 🔄 **In Development:** E-Commerce API architecture, Interactive Data Analysis Dashboard.
 
 ---
 
-## 🎯 Learning Roadmap
+## 🎯 Academic & Professional Roadmap
 
-```
-📈 SKILL PROGRESSION
+📈 CORE CSE & DATA SCIENCE PROGRESSION
 
-Phase 1: Core Foundations (Current) ✅
-├── Data Structures & Algorithms
+Phase 1: Foundations & Backend (Current)
+├── Data Structures & Algorithms (DSA)
 ├── Advanced Python (OOP, Design Patterns)
-├── Database Optimization
-└── Build foundational projects
+├── Relational Database Optimization
+└── Building Core Portfolio Projects
 
-Phase 2: Data Science Track (3-6 months)
-├── Pandas & NumPy
-├── Statistical Analysis
-├── Data Visualization
-└── Real-world data projects
+Phase 2: Data Engineering & Analytics (3-6 Months)
+├── Mathematical Foundations & Statistics
+├── Advanced Pandas, NumPy, & Data Visualization
+└── Data Pipeline Engineering
 
-Phase 3: Machine Learning (6-9 months)
-├── Scikit-learn
-├── Supervised & Unsupervised Learning
-├── Model Evaluation & Validation
-└── Kaggle competitions
+Phase 3: Machine Learning Frameworks (6-12 Months)
+├── Predictive Modeling & Scikit-learn
+├── Core Machine Learning Pipelines
+└── Academic Research & Technical Collaborations
 
-Phase 4: Advanced AI/ML (9-12 months)
-├── Deep Learning (TensorFlow/PyTorch)
-├── NLP or Computer Vision
-├── Model Deployment
-└── Production ML systems
-```
-
----
-
-## 🎓 My Goals
-
-- 🎯 Build **3-5 portfolio projects** showcasing full-stack + ML expertise
-- 📊 Master **Data Science fundamentals** and statistical analysis
-- 🤖 Develop **AI/ML applications** for real-world problems
-- 💼 Secure **internship/job in tech** at top companies
-- 🌟 Contribute to **open-source projects**
-- 📱 Create **production-ready, scalable systems**
 
 ---
 
 ## 💼 Open For
 
-✅ **Backend development projects** - APIs, microservices, databases  
-✅ **Data science collaboration** - Analysis, visualization, ML models  
-✅ **Freelance opportunities** - Python, Django, FastAPI projects  
-✅ **Internships & Full-time roles** - Backend engineering, data science  
-✅ **Open-source contributions** - Python ecosystem projects  
+*   Collaborating on **Open Source** Python and Backend projects.
+*   **Internship opportunities** focusing on Software Engineering, Backend Development, or Data Analysis.
+*   Research and development initiatives within the academic community.
 
 ---
 
-## 📞 Let's Connect!
-
 <div align="center">
+
+*Last Updated: June 2026 | Driven by Code and Continuous Learning*
+
+</div>
 
 **Questions or opportunities? Reach out!**
 
