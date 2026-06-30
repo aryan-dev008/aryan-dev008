@@ -90,18 +90,6 @@ I am a focused **B.Tech in Computer Science and Engineering (Core)** student bas
 | **Portfolio Website** | Modern, responsive personal portfolio showcase | HTML5, CSS3, JavaScript | [Live Demo](https://aryan-dev008.github.io/my-website/) |
 | **Snake Game** | Interactive Python game with OOP principles | Python, Pygame | [Repository](https://github.com/aryan-dev008/snake-game-) |
 
->---
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Password Generator** | Secure CLI tool featuring customizable, algorithmic password generation. | Python | [Repository](https://github.com/aryan-dev008/Password-Genarator) |
-| **Portfolio Website** | Modern, production-ready responsive personal portfolio showcase. | HTML5, CSS3, JavaScript | [Live Demo](https://aryan-dev008.github.io/my-website/) |
-| **Snake Game** | Interactive, classic implementation applying strict OOP principles. | Python, Pygame | [Repository](https://github.com/aryan-dev008/snake-game-) |
-
-> 🔄 **In Development:** E-Commerce API architecture, Interactive Data Analysis Dashboard.
-
 ---
 
 ## 🎯 Academic & Professional Roadmap
