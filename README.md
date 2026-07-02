@@ -74,7 +74,7 @@ I am a focused **B.Tech in Computer Science and Engineering (Core)** student bas
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-dev008&theme=tokyonight&hide_border=true)](https://github.com/aryan-dev008)
 
-[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-dev008&theme=tokyonight)](https://github.com/aryan-dev008/github-readme-activity-graph)
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-dev008&theme=github-dark)](https://github.com/aryan-dev008/github-readme-activity-graph)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dev008&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
