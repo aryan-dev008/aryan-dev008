@@ -79,6 +79,8 @@ I am a focused **B.Tech in Computer Science and Engineering (Core)** student bas
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dev008&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
+[![Top Langs](https://vercel.app)](https://github.com/aryan-dev008/github-readme-stats)
+
 
 ---
 
