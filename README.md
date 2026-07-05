@@ -16,7 +16,7 @@
 ---
 ## 🚀 About Me
 
-I am a focused **B.Tech in Computer Science and Engineering (Core)** student based in India. My academic foundation is complemented by a strong passion for backend systems design, robust automation, and data engineering. I focus on writing clean, maintainable code to solve complex, real-world problems.
+I am a focused **B.Tech in Computer Science and Engineering (Core)** student based in India. My academic foundation is complemented by a strong passion for backend systems design, robust automation, and data-driven insights. I thrive on solving complex problems through code and continuous learning.
 
 *   🎓 **Academics:** Pursuing Core Computer Science & Engineering principles (DSA, OS, DBMS, System Design).
 *   🔧 **Backend Engineering:** Building robust REST APIs, secure microservices, and optimizing relational databases.
@@ -24,19 +24,6 @@ I am a focused **B.Tech in Computer Science and Engineering (Core)** student bas
 
 ---
 
-## 💻 Tech Stack
-
-### **Core Languages & Databases**
-*   **Languages:** Python, JavaScript, SQL
-*   **Databases:** PostgreSQL, MySQL, MongoDB
-
-### **Frameworks & Libraries**
-*   **Backend:** Django, FastAPI, Flask
-*   **Data Science:** Pandas, NumPy, Scikit-learn
-
-### **Tools & DevOps**
-*   **Version Control & Environment:** Git, GitHub, Linux, Docker
-*   **IDEs/Development:** VS Code, PyCharm
 ## 💻 Tech Stack
 
 <div align="center">
@@ -72,17 +59,15 @@ I am a focused **B.Tech in Computer Science and Engineering (Core)** student bas
 
 ## 📈 GitHub Activity
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan-dev008&theme=tokyonight&hide_border=true)](https://github.com/aryan-dev008)
 
-[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-dev008&theme=github-dark)](https://github.com/aryan-dev008/github-readme-activity-graph)
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-dev008&theme=github-dark)](https://github.com/aryan-dev008)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dev008&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-dev008&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/aryan-dev008)
 
 </div>
-
-
-
-
 
 ---
 
@@ -116,7 +101,6 @@ Phase 3: Machine Learning Frameworks (6-12 Months)
 ├── Core Machine Learning Pipelines
 └── Academic Research & Technical Collaborations
 
-
 ---
 
 ## 💼 Open For
@@ -129,9 +113,7 @@ Phase 3: Machine Learning Frameworks (6-12 Months)
 
 <div align="center">
 
-*Last Updated: June 2026 | Driven by Code and Continuous Learning*
-
-</div>
+*Last Updated: July 2026 | Driven by Code and Continuous Learning*
 
 **Questions or opportunities? Reach out!**
 
@@ -139,14 +121,10 @@ Phase 3: Machine Learning Frameworks (6-12 Months)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--dev008-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/aryan-dev008)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=globe)](https://aryan-dev008.github.io/my-website/)
 
-</div>
-
 ---
-
-<div align="center">
 
 ⭐ **If you found my work interesting, please consider starring my repositories!**
 
-*Last Updated: June 2026 | Built with ❤️ and Python*
+*Built with ❤️ and Python*
 
 </div>
