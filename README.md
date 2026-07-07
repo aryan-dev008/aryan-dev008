@@ -65,6 +65,7 @@ I am a focused **B.Tech in Computer Science and Engineering (Core)** student bas
 
 [![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-dev008&theme=github-dark)](https://github.com/aryan-dev008)
 
+<img width="676" height="352" alt="image" src="https://github.com/user-attachments/assets/8ecae682-2e97-47c2-bf3c-b5701db62e77" />
 
 
 ---
